@@ -1,5 +1,5 @@
 <h1 align="center">
-  watch me
+  watch.me
 </h1>
 
 <p align="center">
